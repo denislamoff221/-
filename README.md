@@ -7,5 +7,6 @@
 3) Установи желательно среду разработки, например - `PyCharm.` ✅
 4) Открой в PyCharm файл и нажми Run (либо введи в встроенную командную строку `python mat.py`). ✅
 СЫЛЛКИ:
-python `https://www.python.org/`
-PyCharm https://www.jetbrains.com/pycharm/
+
+python -  https://www.python.org/
+PyCharm - https://www.jetbrains.com/pycharm/
