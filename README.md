@@ -5,5 +5,6 @@
 1) Скачай файл. ✅
 2) Убедись что у тебя установлен python (https://www.python.org/) (открой командную строку и напиши команду `python --version`). ✅
 3) Установи желательно среду разработки, например - `PyCharm.` ✅
-4) Открой в PyCharm (https://www.jetbrains.com/pycharm/) файл и нажми Run (либо введи в встроенную командную строку `python mat.py`). ✅
+4) Открой в PyCharm (https://www.jetbrains.com/pycharm/) файл и нажми Run (либо введи в встроенную командную строку
+ `python mat.py`). ✅
 
